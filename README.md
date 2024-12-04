@@ -1,4 +1,4 @@
-# Power-BI-Data-Cleaning-Visualization
+# Data Transformation & Visualization
 
 # Overview
 This project involves creating an interactive sales report for a global store dataset using Power BI. The report provides insights into sales performance, shipping modes, and geographical segmentation to help stakeholders make data-driven decisions.
